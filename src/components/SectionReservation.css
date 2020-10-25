@@ -1,0 +1,57 @@
+section.reservation{
+    margin-top: -1.5rem;
+    background-color: rgb(5, 5, 5);
+    background-image: none;
+    padding-top: 2.5rem;
+}
+.reservation-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.reservation-form div{
+   background-color: #fadbdb;
+   width: 60%;
+   padding: 0.2rem;
+   color: red;
+   border: 2px solid red;
+   
+}
+
+input{
+    width: 80%;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    height: 2rem;
+    margin-bottom: 0.5rem;
+}
+button{
+    margin-top: 2rem;
+    width: 80%;
+    height: 3rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    font-family: inherit;
+}
+@media (min-width: 600px){
+    input{
+        width: 40%;
+    }
+    button{
+        width: 40%;
+    }
+    .reservation-form div{
+        width: 40%;
+       
+        
+     }
+}
