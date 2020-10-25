@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/basement/static/css/main.e589cbf3.chunk.css",
+    "main.js": "/basement/static/js/main.089954b3.chunk.js",
+    "main.js.map": "/basement/static/js/main.089954b3.chunk.js.map",
+    "runtime-main.js": "/basement/static/js/runtime-main.0465e327.js",
+    "runtime-main.js.map": "/basement/static/js/runtime-main.0465e327.js.map",
+    "static/js/2.790a35cc.chunk.js": "/basement/static/js/2.790a35cc.chunk.js",
+    "static/js/2.790a35cc.chunk.js.map": "/basement/static/js/2.790a35cc.chunk.js.map",
+    "index.html": "/basement/index.html",
+    "static/css/main.e589cbf3.chunk.css.map": "/basement/static/css/main.e589cbf3.chunk.css.map",
+    "static/js/2.790a35cc.chunk.js.LICENSE.txt": "/basement/static/js/2.790a35cc.chunk.js.LICENSE.txt",
+    "static/media/SectionOne.css": "/basement/static/media/background.bee2126a.jpg",
+    "static/media/bar0.806b4121.jpg": "/basement/static/media/bar0.806b4121.jpg",
+    "static/media/closed.9916c4e6.svg": "/basement/static/media/closed.9916c4e6.svg",
+    "static/media/menu.33340226.svg": "/basement/static/media/menu.33340226.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0465e327.js",
+    "static/js/2.790a35cc.chunk.js",
+    "static/css/main.e589cbf3.chunk.css",
+    "static/js/main.089954b3.chunk.js"
+  ]
+}
